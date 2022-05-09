@@ -1,0 +1,31 @@
+body
+{
+	text-align: center; 
+	background-image: linear-gradient(to right, rgb(0, 166, 255) , rgb(255, 128, 247));
+}
+
+#player_login_1 , #player_login_2
+{
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		text-align: center;
+		float: none;
+		border-radius: 15px;
+		text-decoration: dotted;
+		text-decoration-color: blueviolet;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	text-align: center;
+	margin-left: 20px;
+}
+
+
+
+#my_button{
+	border-color:darkblue;
+	border-width: 5px;
+}
